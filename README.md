@@ -1,13 +1,9 @@
 # 3d-avatar-lip-sync-tts-llm-unity
-Real-time 3D avatar system in Unity with lip sync, text-to-speech, and LLM-powered dialogue.
+Real-time 3D avatar system in Unity featuring lip sync, text-to-speech, and LLM-powered dialogue.
 
-This is a proof-of-concept project to showcase the interaction with an AI avatar.
-Feel free to use this repo as a start to your unity 3d avatar project, it serves as a demo for how the various plugins made available by other devs can integrated to achieve this result.
+This project demonstrates an interactive AI avatar pipeline, combining multiple technologies into a cohesive, real-time experience. It serves as a proof-of-concept for building conversational 3D avatars and can be used as a starting point for developers looking to integrate AI-driven characters into their own Unity applications.
 
-LLMUnity provides the llm plugin that allows us to use the downloaded llm as the chatbot base.
-The cross-platform TTS script allows the selection of native voice generation using the native OS text-to-speech capabilities.
-uLipSync allows us to feed the audio generated from the TTS voice to play the animation on the 3d model using blendshapes.
-Unity-Chan! is used as the model and was set up as detailed in uLipSync's github readme.
+The system leverages LLMUnity to run a locally downloaded language model as the conversational engine. A cross-platform TTS implementation enables native voice generation using the operating system’s built-in text-to-speech capabilities. uLipSync processes the generated audio to drive real-time lip sync animation on the 3D avatar via blendshapes. The Unity-Chan model is used as the character base and is configured according to the uLipSync setup guidelines.
 
 ![Demo](demo.gif)
 
