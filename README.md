@@ -11,6 +11,9 @@ Unity-Chan! is used as the model and was set up as detailed in uLipSync's github
 
 ![Demo](demo.gif)
 
+You may select your choice of voice for each platform. Test audio will be played at the start of the play mode.
+![Demo](crossplatformtts.png)
+
 Note:
 * You will need to initialise LLMUnity on your first run. Refer to the official github for LLMUnity for instructions on how to set up. Open the scene, then select the LLM game object, download the libraries and also the LLM model of your choice.
 
