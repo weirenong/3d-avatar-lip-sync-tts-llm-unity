@@ -11,6 +11,14 @@ Unity-Chan! is used as the model and was set up as detailed in uLipSync's github
 
 ![Demo](demo.gif)
 
+Note:
+* You will need to initialise LLMUnity on your first run. Refer to the official github for LLMUnity for instructions on how to set up. Open the scene, then select the LLM game object, download the libraries and also the LLM model of your choice.
+
+* MacOS and Windows platforms are supported but it is only tested on MacOS.
+
+* Unity version used : 2022.3.62f2
+
+
 Credits are fully attributed to the following projects:
 
 1. LLMUnity
