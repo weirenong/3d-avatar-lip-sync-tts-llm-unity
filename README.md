@@ -9,6 +9,8 @@ The cross-platform TTS script allows the selection of native voice generation us
 uLipSync allows us to feed the audio generated from the TTS voice to play the animation on the 3d model using blendshapes.
 Unity-Chan! is used as the model and was set up as detailed in uLipSync's github readme.
 
+![Demo](demo.gif)
+
 Credits are fully attributed to the following projects:
 
 1. LLMUnity
