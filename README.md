@@ -21,7 +21,7 @@ Note:
 
 * Unity version used : 2022.3.62f2
 
-
+This repository’s original code is MIT-licensed; third-party assets and dependencies remain under their own licences.
 Credits are fully attributed to the following projects:
 
 1. LLMUnity
